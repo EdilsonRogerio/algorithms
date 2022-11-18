@@ -1,5 +1,5 @@
 def busca_binaria_recursiva(lista, numero):
-    if len(lista) == 0:  # Se a lista estiver vazia retorna None
+    if len(lista) == 0:  # Se a lista estiver vazia retorna False
         return False
     else:
 
